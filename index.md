@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
 <title>DataCenter Status | OwlGram</title>
@@ -26,3 +27,153 @@
 <div class="right_text_container">
 <div>
 <div>
+LAST UPDATE
+</div>
+<div id="loading_date" class="placeholder"></div>
+</div>
+</div>
+</div>
+<div class="top_bar">
+<div id="header_loader">
+</div>
+<div>
+Here you can see the various status of <a target="_blank" href="https://core.telegram.org/api/datacenter">Media Datacenter</a> in realtime from the section below
+</div>
+<div class="material_button" onclick="if (!window.__cfRLUnblockHandlers) return false; refreshPage()" data-cf-modified-4c4d36a7029cd859b63de6ec-="">
+<div class="c-button">
+<div>
+<img src="img/restart.svg" alt="icon_restart">
+<div>Refresh Page</div>
+</div>
+<div class="c-ripple js-ripple">
+<span class="c-ripple__circle"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="top_bar">
+<div class="header_text">
+Datacenter Status
+</div>
+<div class="item_ripple c-button_white loading" id="dc1_tab">
+ <div>
+<div>
+<blob-animation style="color: #329AFE"></blob-animation>
+<img src="img/ic_pluto.svg" alt="datacenter_icon">
+</div>
+<div>
+<div>
+MIA, Miami FL, USA - DC1 </div>
+<div>
+149.154.175.50 </div>
+<div id="dc1_status"></div>
+</div>
+<div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="c-ripple_white js-ripple">
+<span class="c-ripple_white__circle"></span>
+</div>
+</div>
+<div class="item_ripple c-button_white loading" id="dc2_tab">
+<div>
+<div>
+<blob-animation style="color: #8B31FD"></blob-animation>
+<img src="img/ic_venus.svg" alt="datacenter_icon">
+</div>
+<div>
+<div>
+AMS, Amsterdam, NL - DC2 </div>
+<div>
+149.154.167.50 </div>
+<div id="dc2_status"></div>
+</div>
+<div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="c-ripple_white js-ripple">
+<span class="c-ripple_white__circle"></span>
+</div>
+</div>
+<div class="item_ripple c-button_white loading" id="dc3_tab">
+<div>
+<div>
+<blob-animation style="color: #DA5653"></blob-animation>
+<img src="img/ic_aurora.svg" alt="datacenter_icon">
+</div>
+<div>
+<div>
+MIA, Miami FL, USA - DC3 </div>
+<div>
+149.154.175.100 </div>
+<div id="dc3_status"></div>
+</div>
+<div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="c-ripple_white js-ripple">
+<span class="c-ripple_white__circle"></span>
+</div>
+</div>
+<div class="item_ripple c-button_white loading" id="dc4_tab">
+<div>
+<div>
+<blob-animation style="color: #F7B139"></blob-animation>
+<img src="img/ic_vesta.svg" alt="datacenter_icon">
+</div>
+<div>
+<div>
+AMS, Amsterdam, NL - DC4 </div>
+<div>
+149.154.167.91 </div>
+<div id="dc4_status"></div>
+</div>
+<div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="c-ripple_white js-ripple">
+<span class="c-ripple_white__circle"></span>
+</div>
+</div>
+<div class="item_ripple c-button_white loading" id="dc5_tab">
+<div>
+<div>
+<blob-animation style="color: #4BD199"></blob-animation>
+<img src="img/ic_flora.svg" alt="datacenter_icon">
+</div>
+<div>
+<div>
+SIN, Singapore, SG - DC5 </div>
+<div>
+91.108.56.100 </div>
+<div id="dc5_status"></div>
+</div>
+<div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+<div class="placeholder"></div>
+</div>
+</div>
+<div class="c-ripple_white js-ripple">
+<span class="c-ripple_white__circle"></span>
+</div>
+</div>
+</div>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="4c4d36a7029cd859b63de6ec-|49" defer=""></script></body>
+</html>
