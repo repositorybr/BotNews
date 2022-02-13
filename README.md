@@ -1,1 +1,1 @@
-# Botnews
+# BotNews
