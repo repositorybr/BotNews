@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/repositorybr/BotNews/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/repositorybr/BotNews/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html lang="en">
+<head>
+<title>DataCenter Status | OwlGram</title>
+<meta name='viewport' content='width=device-width, user-scalable=0'>
+<link href="css/app.css?v=6" rel="preload" as="style">
+<link rel="stylesheet" href="css/app.css?v=6">
+<link href="css/button.css" rel="preload" as="style">
+<link rel="stylesheet" href="css/button.css">
+<link rel="icon" type="image/x-icon" href="https://owlgram.org/favicon.ico">
+<link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700%7CGoogle+Sans:400,500%7CProduct+Sans:400&amp;display=swap&amp;lang=en" as="style" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700%7CGoogle+Sans:400,500%7CProduct+Sans:400&amp;display=swap&amp;lang=en" crossorigin>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.8.1/lottie.min.js" type="4c4d36a7029cd859b63de6ec-text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="4c4d36a7029cd859b63de6ec-text/javascript"></script>
+<script src="js/button.js" type="4c4d36a7029cd859b63de6ec-text/javascript"></script>
+<script src="js/blob_drawable.js" type="4c4d36a7029cd859b63de6ec-text/javascript"></script>
+<script src="js/dc_blob_animation.js" type="4c4d36a7029cd859b63de6ec-text/javascript"></script>
+<script src="js/app.js?v=2" type="4c4d36a7029cd859b63de6ec-text/javascript"></script>
+</head>
+<body oncontextmenu="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-4c4d36a7029cd859b63de6ec-="">
+<div class="top_menu">
+<a href="/">
+<img class="logo_top" src="//owlgram.org/img/owlgram.svg" alt="logo" />
+</a>
+<div class="right_text_container">
+<div>
+<div>
